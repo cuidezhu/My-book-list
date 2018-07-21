@@ -11,3 +11,4 @@
 | 7 | React学习手册 | Alex，Banks，Eve，Porcello | 前端 |
 | 8 | React Native移动开发实战 | 向治洪 | 前端 |
 | 9 | 跨平台桌面应用开发：基于Electron与NW.js | Paul B.Jensen | 前端 |
+| 10 | 岛上书店 | 加·泽文 | 小说 |
